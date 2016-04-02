@@ -18,28 +18,28 @@ Enter the value of l : 2
 The value of p is : 3
 The value of n is : 4
 
-x(n) :
-[1, 2, 3, 4]
-h(n) :
-[9, 8, 7]
+x(n) :<br>
+[1, 2, 3, 4]<br>
+h(n) :<br>
+[9, 8, 7]<br>
 
-The Different values of X(inputs) :
-X1 :
-[1, 2, 0, 0]
-X2 :
-[3, 4, 0, 0]
-X3 :
-[0, 0, 0, 0]
-
-The Different values of Y(Output) :
-Y1 :
-[9, 26, 23, 14]
-Y2 :
-[27, 60, 53, 28]
-Y3 :
-[0, 0, 0, 0]
-
-****** Final answer of overlap add method ******* :
-[9, 26, 50, 74, 53]
-
-**** Programmed By : AFZAL JUNEJA *****
+The Different values of X(inputs) :<br>
+X1 :<br>
+[1, 2, 0, 0]<br>
+X2 :<br>
+[3, 4, 0, 0]<br>
+X3 :<br>
+[0, 0, 0, 0]<br>
+<br>
+The Different values of Y(Output) :<br>
+Y1 :<br>
+[9, 26, 23, 14]<br>
+Y2 :<br>
+[27, 60, 53, 28]<br>
+Y3 :<br>
+[0, 0, 0, 0]<br>
+<br>
+****** Final answer of overlap add method ******* :<br>
+[9, 26, 50, 74, 53]<br>
+<br><br>
+**** Programmed By : AFZAL JUNEJA *****<br>
