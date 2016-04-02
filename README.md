@@ -5,18 +5,18 @@
 #OUTPUT:::
 
 
-Enter the length of the x(n) matrix : 4
-Enter 1 element : 1
-Enter 2 element : 2
-Enter 3 element : 3
-Enter 4 element : 4
-Enter the length of the h(n) matrix : 3
-Enter 1 element : 9
-Enter 2 element : 8
-Enter 3 element : 7
-Enter the value of l : 2
-The value of p is : 3
-The value of n is : 4
+Enter the length of the x(n) matrix : 4<br>
+Enter 1 element : 1<br>
+Enter 2 element : 2<br>
+Enter 3 element : 3<br>
+Enter 4 element : 4<br><br>
+Enter the length of the h(n) matrix : 3<br>
+Enter 1 element : 9<br>
+Enter 2 element : 8<br>
+Enter 3 element : 7<br><br>
+Enter the value of l : 2<br><br>
+The value of p is : 3<br>
+The value of n is : 4<br>
 
 x(n) :<br>
 [1, 2, 3, 4]<br>
